@@ -1,2 +1,2 @@
-# cosmic-repo
+# cosmic-repos
 FRACTAL_HYBRIDE
